@@ -29,7 +29,7 @@ The system ensures:
 
 ---
 
-## 🚀 How to Run / Use
+## 🚀 How to Use
 
 Since this is a **design and specification-based project**, there is no executable code, but here’s how you can explore or use it:
 
